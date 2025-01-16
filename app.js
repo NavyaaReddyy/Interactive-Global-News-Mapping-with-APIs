@@ -1,4 +1,4 @@
-const API_KEY = '60ef3db772a1447db54f78e06a6522c4'; // Replace with your actual API key
+const API_KEY = 'your_api_key'; // Replace with your actual API key
 const endpoint = 'https://newsapi.org/v2/top-headlines';
 const country = 'us'; // Can be dynamically set based on user selection
 

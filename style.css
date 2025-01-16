@@ -1,0 +1,10 @@
+/* Full screen map */
+#map {
+    height: 100vh;
+}
+
+/* Custom popup styles */
+.popup-content {
+    max-width: 300px;
+    font-size: 14px;
+}

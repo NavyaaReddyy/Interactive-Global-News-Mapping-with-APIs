@@ -1,5 +1,5 @@
 // Your News API key here
-const API_KEY = '1b5c5a3403e06a8e06c7548a95c1feb2';
+const API_KEY = 'Your_API_Key';
 
 // Coordinates for major countries (you can add more countries as needed)
 const countryCoordinates = {

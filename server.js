@@ -2,7 +2,7 @@ const express = require('express');
 const axios = require('axios');
 const app = express();
 
-const API_KEY = '60ef3db772a1447db54f78e06a6522c4'; // Replace with your actual API key
+const API_KEY = 'Your_API_KEY'; // Replace with your actual API key
 
 app.get('/news', async (req, res) => {
   const country = req.query.country || 'us'; // Default to 'us'
